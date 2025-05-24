@@ -1,0 +1,357 @@
+id,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,vid_id
+0,"Hey, Soul Sister",Train,neo mellow,2010,97,89,67,-4,8,80,217,19,4,83,Iurs-gVL48Y
+1,Love The Way You Lie,Eminem,detroit hip hop,2010,87,93,75,-5,52,64,263,24,23,82,acMtKzTbAAU
+2,TiK ToK,Kesha,dance pop,2010,120,84,76,-3,29,71,200,10,14,80,tGxg7EmXDC0
+3,Bad Romance,Lady Gaga,dance pop,2010,119,92,70,-4,8,71,295,0,4,79,TTOPBQhrvtQ
+4,Just the Way You Are,Bruno Mars,pop,2010,109,84,64,-5,9,43,221,2,4,78,u7XjPmN-tHw
+5,Baby,Justin Bieber,canadian pop,2010,65,86,73,-5,11,54,214,4,14,77,j8n1pj8RfFs
+6,Dynamite,Taio Cruz,dance pop,2010,120,78,75,-4,4,82,203,0,9,77,kJNyjdpT1vo
+7,Secrets,OneRepublic,dance pop,2010,148,76,52,-6,12,38,225,7,4,77,BHsIHlyOMpc
+8,Empire State of Mind (Part II) Broken Down,Alicia Keys,hip pop,2010,93,37,48,-8,12,14,216,74,3,76,_W44NZvHc9I
+9,Only Girl (In The World),Rihanna,barbadian pop,2010,126,72,79,-4,7,61,235,13,4,73,-ySWIyJj3I0
+10,Club Can't Handle Me (feat. David Guetta),Flo Rida,dance pop,2010,128,87,62,-4,6,47,235,3,3,73,88gZ5bw7GU4
+11,Marry You,Bruno Mars,pop,2010,145,83,62,-5,10,48,230,33,4,73,dElRVQFqj-k
+12,Cooler Than Me - Single Mix,Mike Posner,dance pop,2010,130,82,77,-5,70,63,213,18,5,73,l-TaaIQ2_1A
+13,Telephone,Lady Gaga,dance pop,2010,122,83,83,-6,11,71,221,1,4,73,1Ea8Rj2wQ2w
+14,Like A G6,Far East Movement,dance pop,2010,125,84,44,-8,12,78,217,1,45,72,GvgJEznqtms
+15,OMG (feat. will.i.am),Usher,atl hip hop,2010,130,75,78,-6,36,33,269,20,3,72,wbfO5jaUiQo
+16,Eenie Meenie,Sean Kingston,dance pop,2010,121,61,72,-4,11,83,202,5,3,71,n4S5-nRUWbE
+17,The Time (Dirty Bit),The Black Eyed Peas,dance pop,2010,128,81,82,-8,60,44,308,7,7,70,zh1JNLCzlLs
+18,Alejandro,Lady Gaga,dance pop,2010,99,80,63,-7,36,37,274,0,5,69,ucniWROEZC4
+19,Your Love Is My Drug,Kesha,dance pop,2010,120,61,83,-4,9,76,187,1,10,69,RPdkRjOqVdI
+20,Meet Me Halfway,The Black Eyed Peas,dance pop,2010,130,63,80,-7,32,40,284,0,7,68,gNRNzOERHuY
+21,Whataya Want from Me,Adam Lambert,australian pop,2010,186,68,44,-5,6,45,227,1,5,66,X1Fqn9du7xo
+22,Take It Off,Kesha,dance pop,2010,125,68,73,-5,9,74,215,0,3,66,RpFMuBHxGWs
+23,Misery,Maroon 5,pop,2010,103,81,70,-5,22,73,216,0,4,65,6g6g2mvItp4
+24,All The Right Moves,OneRepublic,dance pop,2010,146,95,53,-4,28,65,238,26,5,65,RuPm04f9BUk
+25,Animal,Neon Trees,indie pop,2010,148,83,48,-6,38,74,212,0,4,65,gM7Hlg75Mlo
+26,Naturally,Selena Gomez & The Scene,dance pop,2010,133,90,61,-5,5,88,203,2,5,64,a_YR4dKArgo
+27,I Like It,Enrique Iglesias,dance pop,2010,129,94,65,-3,6,73,231,2,9,63,c8WwwScSRkE
+28,Teenage Dream,Katy Perry,dance pop,2010,120,80,72,-5,13,59,228,2,4,63,OE7IhVLrrNw
+29,California Gurls,Katy Perry,dance pop,2010,125,75,79,-4,18,40,235,0,5,62,l0Yjc5aSgwI
+30,3,Britney Spears,dance pop,2010,135,71,70,-2,14,79,213,5,5,62,oTs6oQx1WJY
+31,My First Kiss - feat. Ke$ha,3OH!3,dance pop,2010,138,89,68,-4,36,83,192,1,8,62,N1MMoZ-DLlY
+32,Blah Blah Blah (feat. 3OH!3),Kesha,dance pop,2010,120,84,75,-3,42,52,172,8,12,62,tUn64B3zzOw
+33,Imma Be,The Black Eyed Peas,dance pop,2010,92,52,60,-7,31,41,258,18,37,62,iY_217Xzfz8
+34,Try Sleeping with a Broken Heart,Alicia Keys,hip pop,2010,111,82,50,-5,13,55,249,16,11,62,_cuHFUqJ-UU
+35,Sexy Bitch (feat. Akon),David Guetta,dance pop,2010,130,63,81,-5,13,80,196,8,5,61,88_iSSp5kXM
+36,Bound To You - Burlesque Original Motion Picture Soundtrack,Christina Aguilera,dance pop,2010,164,41,29,-5,13,7,264,83,3,61,P52-jyDTNjE
+37,If I Had You,Adam Lambert,australian pop,2010,131,91,65,-4,37,79,228,1,11,59,tbX6GbQ_Q58
+38,Rock That Body,The Black Eyed Peas,dance pop,2010,125,91,72,-6,43,84,269,2,10,59,oBm0DJx9g8A
+39,Dog Days Are Over,Florence + The Machine,art pop,2010,150,81,50,-5,12,26,253,3,9,58,vDHr85LiwUM
+40,Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack,Christina Aguilera,dance pop,2010,150,85,51,-4,12,72,185,47,27,58,xWFRNaiCSQM
+41,Doesn't Mean Anything,Alicia Keys,hip pop,2010,104,41,71,-7,10,10,273,4,3,57,lViLhazjvVc
+42,Hard,Rihanna,barbadian pop,2010,182,75,31,-4,65,16,251,1,11,57,Xcwd_Nz6Zog
+43,Loca,Shakira,colombian pop,2010,112,87,80,-4,9,85,193,19,7,56,-UDdC9KZpwk
+44,You Lost Me,Christina Aguilera,dance pop,2010,43,39,23,-6,14,7,257,85,4,56,cjjEvDbQRyo
+45,Not Myself Tonight,Christina Aguilera,dance pop,2010,120,81,76,-5,56,54,186,0,4,55,wt-tHcQR67Y
+46,Written in the Stars (feat. Eric Turner),Tinie Tempah,dance pop,2010,91,95,64,-4,18,57,220,6,7,52,YgFyi74DVjc
+47,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,atl hip hop,2010,120,86,66,-3,8,65,221,3,11,52,xG4sH7jKvXE
+48,Castle Walls (feat. Christina Aguilera),T.I.,atl hip hop,2010,80,86,45,-5,26,58,329,7,39,49,f3xT8BnrVyQ
+49,Break Your Heart,Taio Cruz,dance pop,2010,122,90,67,-5,8,63,186,0,3,33,P09-6KI2yqE
+50,Hello,Martin Solveig,big room,2010,128,98,67,-3,10,45,191,1,3,0,IiCb4vSqEHM
+51,A Thousand Years,Christina Perri,dance pop,2011,139,41,42,-7,11,16,285,31,3,81,NZGHXy1IAHM
+52,Someone Like You,Adele,british soul,2011,135,33,56,-8,10,28,285,89,3,80,hLQl3WQQoQ0
+53,Give Me Everything,Pitbull,dance pop,2011,129,94,67,-3,30,53,252,19,16,79,3MqUW5txLjs
+54,Rolling in the Deep,Adele,british soul,2011,105,76,73,-5,5,52,228,13,3,76,bDtjO-R0QSo
+55,Run the World (Girls),BeyoncÃ©,dance pop,2011,127,90,73,-4,37,76,236,0,14,76,N8t078YDojM
+56,Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,pop,2011,128,76,72,-4,32,62,201,1,5,76,suRsxpoAc5w
+57,Love On Top,BeyoncÃ©,dance pop,2011,94,75,65,-5,60,65,267,8,9,76,HzC9X_O7bJQ
+58,Grenade,Bruno Mars,pop,2011,110,56,71,-7,12,23,223,15,6,75,SR6iYWJxHqs
+59,Tonight Tonight,Hot Chelle Rae,dance pop,2011,100,78,69,-5,16,81,200,8,12,75,BN84wPKS7RI
+60,What the Hell,Avril Lavigne,canadian pop,2011,150,93,58,-4,14,88,221,0,5,74,lrbHPYGHoSU
+61,Born This Way,Lady Gaga,dance pop,2011,124,83,59,-5,33,49,260,0,16,73,3Vzrr64ZrVU
+62,Monster,Kanye West,chicago rap,2011,125,69,63,-6,67,10,379,0,20,73,pS6HRKZQLFA
+63,Best Thing I Never Had,BeyoncÃ©,dance pop,2011,99,65,55,-4,9,30,254,14,3,73,WwMsWjrlu54
+64,Party Rock Anthem,LMFAO,dance pop,2011,130,74,75,-4,27,35,262,2,16,72,0iW_BIc0nyw
+65,We R Who We R,Kesha,dance pop,2011,120,82,74,-5,12,65,205,1,4,72,tCkGsyOYDMI
+66,Price Tag,Jessie J,australian pop,2011,175,83,64,-4,27,68,223,3,18,72,Kmz8lbcfs6A
+67,Good Life,OneRepublic,dance pop,2011,95,69,63,-8,13,65,253,8,5,72,FEoveD68H_Q
+68,Just CanÂt Get Enough,The Black Eyed Peas,dance pop,2011,94,63,66,-9,11,26,219,19,18,71,0ch6TejAufE
+69,On The Floor,Jennifer Lopez,dance pop,2011,130,78,73,-5,7,57,285,11,5,69,70XspGKI8kQ
+70,What's My Name?,Rihanna,barbadian pop,2011,100,79,69,-3,8,58,263,23,7,69,_EBSn7I1j0M
+71,Yeah 3x,Chris Brown,dance pop,2011,130,88,71,-3,9,70,242,0,4,69,fDj0oWRs-6M
+72,Without You (feat. Usher),David Guetta,dance pop,2011,128,61,61,-4,16,40,208,23,3,68,jUe8uoKdHao
+73,Sexy And I Know It,LMFAO,dance pop,2011,130,86,71,-4,19,80,199,10,32,67,geMBoMVDd7c
+74,The Edge Of Glory,Lady Gaga,dance pop,2011,128,77,58,-6,11,36,321,0,4,67,7TxerIpMK3Y
+75,E.T.,Katy Perry,dance pop,2011,152,87,62,-5,37,76,230,2,18,66,fMkrHU98JlY
+76,Till the World Ends,Britney Spears,dance pop,2011,132,71,69,-6,20,45,238,2,7,65,sdjEXoJhCLw
+77,I Wanna Go,Britney Spears,dance pop,2011,130,55,70,-7,33,79,210,0,4,64,0Ogv-98HSxA
+78,Blow,Kesha,dance pop,2011,120,73,75,-4,7,81,220,0,4,64,NJz5tVJRSdo
+79,You And I,Lady Gaga,dance pop,2011,127,70,52,-5,9,52,307,9,5,64,oGEwc4xap0E
+80,Judas,Lady Gaga,dance pop,2011,131,93,66,-4,27,53,249,0,7,63,UaozB9_ufa8
+81,Tonight (I'm Fuckin' You),Enrique Iglesias,dance pop,2011,126,89,65,-4,12,32,232,3,5,63,bPtTxGIRDtE
+82,Please Don't Go,Mike Posner,dance pop,2011,120,88,70,-4,13,66,197,0,3,63,HpixdTlYlKU
+83,We Found Love,Rihanna,barbadian pop,2011,128,77,73,-4,11,60,215,3,4,61,QrJosGJj7w0
+84,Marry The Night,Lady Gaga,dance pop,2011,131,88,61,-4,46,38,265,0,6,61,O4IgYxHEAuk
+85,1+1,BeyoncÃ©,dance pop,2011,63,38,30,-7,7,26,274,38,3,60,KaasJ44O5lI
+86,Hold It Against Me,Britney Spears,dance pop,2011,133,72,65,-5,24,39,229,1,4,59,GJSm_QMO6zA
+87,I'm Into You,Jennifer Lopez,dance pop,2011,84,75,59,-4,8,70,200,2,14,59,IgLcQmlN2Xg
+88,Papi,Jennifer Lopez,dance pop,2011,120,81,71,-5,37,89,223,13,6,58,eHvkUEEnNWs
+89,Cheers (Drink To That),Rihanna,barbadian pop,2011,80,91,58,-4,29,73,262,2,4,58,dqZ6yrWEmGo
+90,S&M Remix,Rihanna,barbadian pop,2011,128,81,82,-3,5,89,257,5,5,54,Ce2_k0LaE7E
+91,Jar of Hearts,Christina Perri,dance pop,2011,75,35,35,-6,12,9,247,73,3,50,8qlmxuc6iKg
+92,Turning Page,Sleeping At Last,acoustic pop,2011,125,38,30,-8,11,19,255,91,3,46,M-AMu_iAcf8
+93,Super Bass,Nicki Minaj,dance pop,2011,127,74,77,-7,40,59,201,6,23,38,zqZt6VNnEIA
+94,Raise Your Glass,P!nk,dance pop,2011,122,64,68,-7,12,56,208,0,12,38,9EhuwHV4a6w
+95,Invading My Mind,Jennifer Lopez,dance pop,2011,129,88,73,-4,32,69,201,2,7,31,TS7gavfOoy4
+96,Moment 4 Life - Album Version (Edited),Nicki Minaj,dance pop,2011,130,88,50,-4,22,37,279,39,38,28,wp9G24LA0sA
+97,Last Friday Night (T.G.I.F.),Katy Perry,dance pop,2011,126,81,65,-4,67,72,231,0,4,27,cEin6Kix6xs
+98,Firework,Katy Perry,dance pop,2011,124,83,64,-5,11,65,228,14,5,25,KSbwHzlcgs8
+99,Muny - Album Version (Edited),Nicki Minaj,dance pop,2011,98,72,80,-5,19,53,227,56,33,7,agcbSLUp31c
+100,Titanium (feat. Sia),David Guetta,dance pop,2012,126,79,60,-4,13,30,245,7,10,80,P-gWGlf_VrY
+101,Locked Out of Heaven,Bruno Mars,pop,2012,144,70,73,-4,31,87,233,5,4,79,OK_b2-w0u60
+102,Paradise,Coldplay,permanent wave,2012,140,59,45,-7,8,20,279,5,3,79,V50Pfad6oi0
+103,Payphone,Maroon 5,pop,2012,110,75,74,-5,29,55,231,2,4,79,bbdsIR4UHDg
+104,What Makes You Beautiful,One Direction,boy band,2012,125,79,73,-2,6,89,200,1,7,78,UlANZSYZ2Js
+105,I Knew You Were Trouble.,Taylor Swift,pop,2012,77,47,62,-7,3,68,220,0,4,77,VmBoTeLsKfs
+106,Call Me Maybe,Carly Rae Jepsen,canadian pop,2012,120,58,78,-7,11,66,193,1,4,76,eHx--ZtG_Ds
+107,Love You Like A Love Song,Selena Gomez & The Scene,dance pop,2012,117,68,86,-4,7,92,188,8,5,76,LupeGtJ3a3E
+108,Set Fire to the Rain,Adele,british soul,2012,108,68,61,-4,13,47,242,0,3,76,a2giXO6eyuI
+109,We Are Never Ever Getting Back Together,Taylor Swift,pop,2012,86,68,63,-6,12,75,193,1,9,75,A90332Q3GkQ
+110,Stronger (What Doesn't Kill You),Kelly Clarkson,dance pop,2012,116,94,56,-4,11,68,222,5,5,74,Xn676-fLq7I
+111,Try,P!nk,dance pop,2012,104,63,67,-7,9,55,248,0,3,74,N7satb0Zcag
+112,Starships,Nicki Minaj,dance pop,2012,125,72,75,-2,25,75,211,14,8,73,23mQE7nf-7o
+113,One More Night,Maroon 5,pop,2012,93,82,72,-3,8,62,220,6,3,73,MhQFbcom46U
+114,Good Time,Owl City,pop,2012,126,87,56,-4,37,68,206,2,14,73,7oBU7d5oenQ
+115,Glad You Came,The Wanted,boy band,2012,127,85,72,-4,11,45,198,3,6,72,I5GjALNHzPQ
+116,Beauty And A Beat,Justin Bieber,canadian pop,2012,128,84,60,-5,7,53,228,0,6,72,-DPOPsDw2Y4
+117,International Love,Pitbull,dance pop,2012,120,86,67,-3,34,65,227,1,5,72,m7qM_KG3eyc
+118,Some Nights,fun.,baroque pop,2012,108,74,67,-7,9,39,277,2,5,72,QxTBtHsh408
+119,Boyfriend,Justin Bieber,canadian pop,2012,97,55,72,-6,13,33,171,4,5,71,xYoxBQ03wUQ
+120,Part Of Me,Katy Perry,dance pop,2012,130,92,68,-5,7,77,216,0,4,71,2Fko7_SV3Lc
+121,Domino,Jessie J,australian pop,2012,127,55,76,-5,4,78,232,1,3,69,UJtB55MaoD0
+122,Where Have You Been,Rihanna,barbadian pop,2012,128,85,72,-6,22,44,243,0,9,68,H-0OuRVCAK8
+123,Wide Awake,Katy Perry,dance pop,2012,160,68,51,-5,39,57,221,7,4,68,FhLmxSK0DLA
+124,The One That Got Away,Katy Perry,dance pop,2012,134,80,69,-4,16,88,227,0,4,67,ePQe5E69INg
+125,Dance Again,Jennifer Lopez,dance pop,2012,128,86,79,-5,10,71,237,2,7,66,5KxII6AJYZY
+126,Turn Up the Music,Chris Brown,dance pop,2012,130,84,59,-6,16,64,228,0,10,65,hVoHa5pguzc
+127,Lights - Single Version,Ellie Goulding,dance pop,2012,120,80,68,-6,13,78,211,3,4,65,V9RbUwvqc2U
+128,We Are Young (feat. Janelle MonÃ¡e),fun.,baroque pop,2012,184,64,38,-6,8,74,251,2,8,63,SlCXgj2bS_A
+129,Diamonds,Rihanna,barbadian pop,2012,92,71,56,-5,11,39,225,0,5,61,0-p5EbAsxUM
+130,Don't Stop the Party (feat. TJR),Pitbull,dance pop,2012,127,96,72,-4,38,95,206,1,9,59,pz4Gd_u98ok
+131,You Da One,Rihanna,barbadian pop,2012,127,72,70,-5,13,86,200,50,4,57,ILwaHtYB4fU
+132,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,dance pop,2012,90,80,65,-3,27,80,211,3,10,54,KyDov-QJFGE
+133,It Will Rain,Bruno Mars,pop,2012,150,84,58,-7,8,48,258,34,5,38,neVe5CIe1Xg
+134,Blow Me (One Last Kiss),P!nk,dance pop,2012,114,92,60,-3,25,75,256,0,4,0,lUqoHUFo1F4
+135,Underneath the Tree,Kelly Clarkson,dance pop,2013,160,81,51,-5,21,69,230,0,5,88,YfF10ow4YEo
+136,Wake Me Up,Avicii,big room,2013,124,78,53,-6,16,64,247,0,5,85,r8sdPRML4cs
+137,Story of My Life,One Direction,boy band,2013,121,66,60,-6,12,29,245,23,5,81,0OJpbfprVro
+138,Just Give Me a Reason (feat. Nate Ruess),P!nk,dance pop,2013,95,55,78,-7,13,44,243,35,5,81,OpQFFLBMEPI
+139,Hall of Fame,The Script,celtic rock,2013,85,87,42,-4,12,63,203,7,6,80,3Kxf2dHlDpQ
+140,Roar,Katy Perry,dance pop,2013,180,77,55,-5,35,46,224,0,4,78,st2Igyi4Ujg
+141,We Can't Stop,Miley Cyrus,dance pop,2013,80,62,61,-6,37,48,231,1,3,78,g3Kv2BZ7muY
+142,Don't You Worry Child - Radio Edit,Swedish House Mafia,big room,2013,129,84,61,-3,12,44,213,11,5,78,jj91VcYVkCs
+143,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,electro,2013,116,81,79,-9,10,86,248,4,4,77,5NV6Rdv1a3I
+144,Wrecking Ball,Miley Cyrus,dance pop,2013,120,42,53,-6,11,35,221,41,3,77,AHtYLZu3ZQk
+145,Impossible,James Arthur,pop,2013,170,70,38,-5,11,30,209,14,9,77,eyu-Oyr537I
+146,Blurred Lines,Robin Thicke,dance pop,2013,120,60,85,-5,8,84,264,0,4,76,CeKpscEfM28
+147,Heart Attack,Demi Lovato,dance pop,2013,174,79,50,-5,24,50,211,7,10,76,xMNz5QqHsF0
+148,Die Young,Kesha,dance pop,2013,128,70,71,-5,22,80,212,0,5,75,Mlu3DenhbCo
+149,Clarity,Zedd,complextro,2013,128,78,51,-3,7,18,271,4,7,75,l9Q7GISatW0
+150,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,art pop,2013,126,81,57,-6,13,11,215,2,6,74,qSNxylmTI1A
+151,Under Control,Calvin Harris,dance pop,2013,126,92,54,-3,12,51,184,13,8,74,idEx6qYv7B8
+152,Everybody Talks,Neon Trees,indie pop,2013,155,92,47,-4,31,73,177,0,6,74,swoVAisnOLo
+153,"Hold On, We're Going Home",Drake,canadian hip hop,2013,100,41,77,-7,7,29,228,0,10,73,QKYkZnxZ3ZA
+154,Best Song Ever,One Direction,boy band,2013,118,88,65,-3,8,49,200,2,5,73,-zCF1-emakY
+155,Kiss You,One Direction,boy band,2013,90,93,63,-3,32,91,183,2,6,73,XAXE3JANcsU
+156,Sweet Nothing (feat. Florence Welch),Calvin Harris,dance pop,2013,128,93,57,-4,6,58,213,20,11,72,5bReeNoKcx4
+157,Lose Yourself to Dance,Daft Punk,electro,2013,100,66,83,-8,8,67,354,8,6,72,Q3Bp1QVVieM
+158,Work Bitch,Britney Spears,dance pop,2013,128,82,63,-7,7,85,248,16,16,71,ra-h_p-vD2s
+159,Brave,Sara Bareilles,acoustic pop,2013,185,84,55,-4,4,76,221,1,5,71,xtE_eufCVNw
+160,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,dance pop,2013,146,93,63,-4,10,88,258,3,8,70,VG3JsmOmDqw
+161,Feel This Moment (feat. Christina Aguilera),Pitbull,dance pop,2013,136,76,67,-4,34,54,230,4,16,70,5jlI4uzZGjU
+162,Beneath Your Beautiful,Labrinth,pop,2013,84,52,56,-6,10,23,272,23,4,70,bqIxCtEveG8
+163,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,dance pop,2013,125,68,66,-7,37,25,252,25,4,70,NY4ReCSqf0g
+164,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,dance pop,2013,95,53,78,-7,5,66,236,6,29,69,sNfRKx7_cMc
+165,If I Lose Myself - Alesso vs OneRepublic,OneRepublic,dance pop,2013,126,75,52,-6,14,16,215,26,4,69,dLa_ryRjC7M
+166,The Way,Ariana Grande,dance pop,2013,82,88,65,-3,8,86,227,29,11,68,wBWK06E3oxw
+167,Suit & Tie,Justin Timberlake,dance pop,2013,102,60,80,-4,16,36,326,10,22,68,cJzRZ0T5ewc
+168,#thatPOWER,will.i.am,dance pop,2013,128,61,80,-6,7,40,280,0,6,68,vHBBBJ0RWRI
+169,I Love It (feat. Charli XCX),Icona Pop,candy pop,2013,126,91,71,-3,15,82,157,1,3,67,W50HtcPAeSs
+170,Play Hard (feat. Ne-Yo & Akon) - New Edit,David Guetta,dance pop,2013,130,87,72,-3,66,68,209,4,4,67,a2CTWkTQY6A
+171,Daylight,Maroon 5,pop,2013,120,67,66,-5,26,37,225,0,3,66,ZxcGPnOcDSQ
+172,Love Somebody,Maroon 5,pop,2013,120,78,68,-6,12,40,230,13,4,65,XCW--IJuRcc
+173,A Little Party Never Killed Nobody (All We Got),Fergie,dance pop,2013,130,62,76,-6,9,52,241,1,18,65,UhwGlpgjAKg
+174,Move,Little Mix,dance pop,2013,121,74,85,-5,55,77,224,0,9,63,RwD4eJGxPc4
+175,Walks Like Rihanna,The Wanted,boy band,2013,126,82,56,-3,10,43,202,1,6,62,b8JUlR3GRLU
+176,Rock N Roll,Avril Lavigne,canadian pop,2013,184,96,47,-3,34,67,207,1,13,61,Qtl-GoDqo_c
+177,Heartbreaker,Justin Bieber,canadian pop,2013,105,52,56,-7,34,58,263,14,10,61,nP-DQK8YIzM
+178,Mirrors - Radio Edit,Justin Timberlake,dance pop,2013,77,60,58,-6,43,65,277,14,5,60,ZFlpVBFSEis
+179,Next To Me,Emeli SandÃ©,dance pop,2013,95,80,67,-5,11,35,197,9,4,60,CtWUU53rt2Y
+180,Made In The USA,Demi Lovato,dance pop,2013,87,86,58,-4,32,59,196,0,4,60,jQl46pqUrU0
+181,Clown,Emeli SandÃ©,dance pop,2013,130,23,45,-8,11,23,221,92,4,60,0OHX_PA25Ok
+182,Girl On Fire (feat. Nicki Minaj) - Inferno Version,Alicia Keys,hip pop,2013,93,81,55,-6,15,34,271,9,31,59,dwaCaaqfIK4
+183,TKO,Justin Timberlake,dance pop,2013,138,68,61,-7,43,49,424,1,24,58,SJW3JRm6BTs
+184,Come & Get It,Selena Gomez,dance pop,2013,80,79,55,-4,10,58,232,1,5,57,sa7Oz_25DNk
+185,Live It Up,Jennifer Lopez,dance pop,2013,128,73,69,-5,33,65,244,1,17,57,JmAW1h7j9CM
+186,We Own The Night,The Wanted,boy band,2013,104,94,55,-4,23,56,206,1,13,56,-RHJrgqvRL0
+187,Atlas - From ÂThe Hunger Games: Catching FireÂ Soundtrack,Coldplay,permanent wave,2013,136,45,28,-8,11,11,236,63,3,55,Lh3TokLzzmw
+188,What About Love,Austin Mahone,dance pop,2013,100,78,63,-7,4,28,203,0,4,54,UqyjGDQvT-Y
+189,Take Back the Night,Justin Timberlake,dance pop,2013,107,66,59,-5,64,33,353,4,16,54,DEzREJbln-o
+190,Applause,Lady Gaga,dance pop,2013,140,78,67,-4,11,73,212,3,5,52,_bHhpufKRjs
+191,Anything Could Happen,Ellie Goulding,dance pop,2013,103,78,70,-4,14,38,286,43,3,52,VbdHf_zxsRw
+192,Finally Found You,Enrique Iglesias,dance pop,2013,128,88,62,-5,35,66,221,1,10,52,UAk2LBDfA6Q
+193,Pom Poms,Jonas Brothers,boy band,2013,148,98,68,-2,28,90,198,7,9,52,U5YnNpWyWg8
+194,#Beautiful,Mariah Carey,dance pop,2013,107,76,68,-5,31,45,200,29,4,51,qzQ3wkJOiU0
+195,How Ya Doin'? (feat. Missy Elliott),Little Mix,dance pop,2013,201,95,36,-3,37,51,211,9,48,50,U4AcHCarHlk
+196,Crazy Kids (feat. will.i.am),Kesha,dance pop,2013,128,75,72,-4,13,50,229,4,4,46,WONie-vuYu8
+197,"Ooh La La (from ""The Smurfs 2"")",Britney Spears,dance pop,2013,128,57,69,-5,11,73,257,2,5,45,8x-gPciJRH8
+198,People Like Us,Kelly Clarkson,dance pop,2013,128,79,60,-5,36,61,259,4,4,45,0AV8lxGjdZ0
+199,Overdose,Ciara,dance pop,2013,107,70,77,-6,6,79,227,1,3,43,n2tVKoAhPls
+200,Right Now - Dyro Radio Edit,Rihanna,barbadian pop,2013,130,74,53,-6,24,45,186,0,4,42,AbhNCPW7W-8
+201,Give It 2 U,Robin Thicke,dance pop,2013,127,83,67,-4,16,58,230,10,7,41,ngefFT5nyFA
+202,Foolish Games,Jewel,alaska indie,2013,132,34,51,-11,12,7,250,23,3,36,7RmgiSL1djg
+203,Outta Nowhere (feat. Danny Mercer),Pitbull,dance pop,2013,95,84,71,-4,21,66,207,16,3,35,2HGcab-pTVY
+204,Freak,Kelly Rowland,atl hip hop,2013,104,78,65,-5,12,45,274,13,6,28,LJS0iw-OU88
+205,All of Me,John Legend,neo mellow,2014,120,26,42,-7,13,33,270,92,3,86,MCyH0k9rbdE
+206,Stay With Me,Sam Smith,pop,2014,84,42,42,-6,11,18,173,59,4,85,bXDSR4GggUU
+207,Summer,Calvin Harris,dance pop,2014,128,86,60,-4,14,74,223,2,3,80,McEoTIqoRKk
+208,"Happy - From ""Despicable Me 2""",Pharrell Williams,dance pop,2014,160,82,65,-5,9,96,233,22,18,79,C7dPqrmDWxs
+209,Rude,MAGIC!,pop,2014,144,76,77,-5,31,93,225,4,4,79,-qqCx5ZyscE
+210,Shake It Off,Taylor Swift,pop,2014,160,80,65,-5,33,94,219,6,17,78,8xG7mH8i-WE
+211,Dark Horse,Katy Perry,dance pop,2014,132,59,65,-6,17,35,216,0,5,78,ONb4aTtG6Ps
+212,Hey Brother,Avicii,big room,2014,125,78,55,-5,8,46,255,3,4,78,YxIiPLVR6NA
+213,Maps,Maroon 5,pop,2014,120,71,74,-6,6,88,190,2,3,78,Y7ix6RITXM0
+214,Treasure,Bruno Mars,pop,2014,116,69,87,-5,32,94,179,4,4,77,-XcaZn-lKFo
+215,Let Her Go,Passenger,folk-pop,2014,75,54,51,-7,10,24,253,39,6,77,B3EN7Ewwwvs
+216,Problem,Ariana Grande,dance pop,2014,103,81,66,-5,16,63,194,2,15,75,Wlytn6qBrww
+217,Pompeii,Bastille,metropopolis,2014,127,72,68,-6,27,57,214,8,4,73,ilLEuwH4hws
+218,Team,Lorde,art pop,2014,100,58,69,-7,31,42,193,17,9,73,4g03b4U_aPk
+219,Love Me Again,John Newman,pop,2014,126,89,50,-5,10,21,240,0,4,73,MmmRjwgVVOw
+220,Latch,Disclosure,house,2014,122,73,50,-5,9,52,256,2,17,72,YT5Kk9YX7ks
+221,Adore You,Miley Cyrus,dance pop,2014,120,66,58,-5,11,20,279,11,3,72,W1tzURKYFNs
+222,Love Never Felt So Good,Michael Jackson,pop,2014,118,72,78,-6,7,71,246,13,4,71,0wnuTGGuAVs
+223,Burn,Ellie Goulding,dance pop,2014,87,78,56,-5,11,33,231,31,4,71,CGyEd0aKWZE
+224,She Looks So Perfect,5 Seconds of Summer,boy band,2014,160,95,49,-4,33,44,202,0,13,71,fufvZ_HSWKY
+225,Fancy,Iggy Azalea,australian hip hop,2014,95,72,91,-4,5,38,200,9,7,70,H6FfQyvnBuk
+226,Talk Dirty (feat. 2 Chainz),Jason Derulo,dance pop,2014,100,65,76,-7,31,76,178,3,23,68,vYt87CNb4Og
+227,Gorilla,Bruno Mars,pop,2014,140,54,72,-7,10,64,244,45,4,68,SNx80sYoVqE
+228,human,Christina Perri,dance pop,2014,144,49,44,-6,11,25,251,13,4,68,2ZFka5_8itM
+229,Young Girls,Bruno Mars,pop,2014,126,75,56,-5,21,50,229,46,3,67,0Jyi5ab0gnM
+230,Wiggle (feat. Snoop Dogg),Jason Derulo,dance pop,2014,82,62,70,-7,16,72,193,8,25,67,nImvbdnaOKQ
+231,Love Runs Out,OneRepublic,dance pop,2014,120,93,72,-4,8,74,225,17,6,66,m-j-n-XJ-Tg
+232,This Is How We Do,Katy Perry,dance pop,2014,96,64,69,-6,15,80,204,2,5,66,nARW7VvOlM8
+233,Mmm Yeah (feat. Pitbull),Austin Mahone,dance pop,2014,126,92,71,-4,27,98,232,0,4,65,c8WOrY-zkxQ
+234,#SELFIE,The Chainsmokers,electropop,2014,128,92,79,-3,8,66,184,1,25,65,gnw-Na6ZfWE
+235,Partition,BeyoncÃ©,dance pop,2014,186,44,41,-12,31,17,319,3,29,65,LVLrCX6S9v4
+236,Birthday,Katy Perry,dance pop,2014,126,67,72,-5,11,84,215,9,7,65,jqYxyd1iSNk
+237,G.U.Y.,Lady Gaga,dance pop,2014,110,92,62,-3,12,57,233,1,4,65,rW88-5oYJgA
+238,Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,complextro,2014,128,74,60,-3,9,46,217,11,4,64,i-gyZ35074k
+239,"Let It Go - From ""Frozen / Single Version",Demi Lovato,dance pop,2014,140,66,50,-6,27,25,226,3,4,63,dWHXzzYfCaQ
+240,Wings,Birdy,neo mellow,2014,83,71,47,-5,16,22,252,8,3,62,zGpAHzY1WoY
+241,Can't Remember to Forget You (feat. Rihanna),Shakira,colombian pop,2014,138,81,69,-4,14,82,207,12,7,62,i_XM3u1_jZQ
+242,Shot Me Down (feat. Skylar Grey) - Radio Edit,David Guetta,dance pop,2014,192,77,35,-4,12,4,191,6,5,61,ZL4VBzz5kH4
+243,Say Something,A Great Big World,neo mellow,2014,138,15,45,-9,9,9,229,87,3,61,tV3uXVBydcI
+244,A Sky Full of Stars,Coldplay,permanent wave,2014,125,68,55,-6,21,16,268,1,3,60,HRK_-LNDpcQ
+245,Come Get It Bae,Pharrell Williams,dance pop,2014,120,80,93,-6,10,90,202,27,8,59,lTOekWUjAhs
+246,Chandelier,Sia,australian dance,2014,174,78,29,-3,7,62,216,2,7,56,9bKkogQlWPw
+247,XO,BeyoncÃ©,dance pop,2014,170,79,47,-9,31,21,216,17,26,56,3xUfCUFPL-8
+248,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song],Pitbull,dance pop,2014,125,94,60,-4,10,55,222,0,7,56,xq1t1mHrmks
+249,Not About Angels,Birdy,neo mellow,2014,116,14,41,-10,9,23,190,97,4,56,OcHqbUbythc
+250,Drunk in Love,BeyoncÃ©,dance pop,2014,140,62,59,-7,18,40,323,1,5,52,BroIjAi27f4
+251,Anaconda,Nicki Minaj,dance pop,2014,130,60,96,-6,21,65,260,7,18,50,17O3lL1aUrg
+252,Boom Clap - From the Motion Picture Das Schicksal ist ein mieser VerrÃ¤ter,Charli XCX,candy pop,2014,92,81,68,-4,34,64,169,7,6,50,IVWRsTtNbfc
+253,La La La (Brasil 2014) (feat. Carlinhos Brown),Shakira,colombian pop,2014,128,82,80,-5,35,61,198,18,4,50,2igups6VdcA
+254,Tee Shirt - Soundtrack Version,Birdy,neo mellow,2014,76,34,68,-9,9,56,160,84,3,49,oM60hSMqIkI
+255,Words as Weapons,Birdy,neo mellow,2014,120,35,53,-9,14,19,239,28,3,44,1CSu-xb8uWo
+256,You're Mine (Eternal),Mariah Carey,dance pop,2014,149,58,63,-7,38,56,224,28,7,38,_1vkmxydrTY
+257,Sheezus,Lily Allen,dance pop,2014,130,50,78,-7,11,39,235,15,4,37,9kPQiAJv4fo
+258,Cannonball,Lea Michele,hollywood,2014,92,82,56,-3,19,57,215,2,5,37,pdIs29WEIgs
+259,It's On Again - Main Soundtrack,Alicia Keys,hip pop,2014,110,54,64,-9,25,53,230,10,11,30,Okn0WpJqgHE
+260,I Luh Ya Papi,Jennifer Lopez,dance pop,2014,96,73,74,-6,12,59,207,45,42,28,LqOVGL-YCxs
+261,Not a Bad Thing,Justin Timberlake,dance pop,2014,86,73,59,-6,38,46,266,27,6,0,Y8ygKnBtKAk
+262,Thinking out Loud,Ed Sheeran,pop,2015,79,45,78,-6,18,59,282,47,3,84,Q5z6RHIpi2Y
+263,I'm Not The Only One,Sam Smith,pop,2015,82,49,68,-6,8,49,239,53,4,84,mzQ8eepcJGQ
+264,The Hills,The Weeknd,canadian contemporary r&b,2015,113,56,58,-7,14,14,242,7,5,84,G5XpJP7f_SE
+265,Love Yourself,Justin Bieber,canadian pop,2015,100,38,61,-10,28,52,234,84,44,83,pb4hWWMlFYg
+266,Uptown Funk,Mark Ronson,dance pop,2015,115,61,86,-7,3,93,270,1,8,82,W8FUmkw3a4U
+267,Take Me To Church,Hozier,irish singer-songwriter,2015,129,66,57,-5,12,44,242,63,5,81,SND2LY0s8FE
+268,Sugar,Maroon 5,pop,2015,120,79,75,-7,9,88,235,6,3,81,i9uReNL9ORo
+269,Sorry,Justin Bieber,canadian pop,2015,100,76,65,-4,30,41,201,8,5,81,8ELbX5CMomE
+270,FourFiveSeconds,Rihanna,barbadian pop,2015,206,27,58,-6,13,35,188,88,5,80,ObuJJ6v7PY8
+271,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,dance pop,2015,190,61,26,-7,13,28,253,25,5,79,d-2uDCSS07I
+272,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",The Weeknd,canadian contemporary r&b,2015,120,38,66,-6,10,44,252,39,3,79,xe_iCkFsQKE
+273,What Do You Mean?,Justin Bieber,canadian pop,2015,125,57,85,-8,8,79,206,59,10,79,NywWB67Z7zQ
+274,Stitches,Shawn Mendes,canadian pop,2015,150,75,75,-7,5,76,207,2,7,78,EByFZdw4wEA
+275,Want to Want Me,Jason Derulo,dance pop,2015,114,68,78,-6,11,66,208,1,6,77,X_mxDuaOOjI
+276,My House,Flo Rida,dance pop,2015,94,70,69,-5,13,74,192,2,5,77,fWNcWtmHTLU
+277,Waves - Robin Schulz Radio Edit,Mr. Probz,tropical house,2015,120,51,83,-9,8,45,208,1,4,77,kAt6H_JkVxQ
+278,Night Changes,One Direction,boy band,2015,120,52,67,-8,12,37,227,86,4,77,bMBdqvJWofQ
+279,How Deep Is Your Love,Calvin Harris,dance pop,2015,122,87,74,-4,39,34,213,4,7,77,E4CdpOLGMyc
+280,Never Forget You,Zara Larsson,dance pop,2015,146,73,58,-6,27,28,213,0,5,77,bdYlVRI7JrY
+281,Love Me Harder,Ariana Grande,dance pop,2015,99,71,47,-4,8,24,236,1,3,76,szGomck3sZI
+282,Animals,Maroon 5,pop,2015,190,74,28,-6,59,33,231,0,9,76,7BJ3ZXpserc
+283,Blame,Calvin Harris,dance pop,2015,128,86,41,-4,34,35,213,3,8,76,HJb0VYVtaNc
+284,Worth It,Fifth Harmony,dance pop,2015,100,77,88,-4,12,59,225,6,9,75,YBHQbu5rbdQ
+285,Break Free,Ariana Grande,dance pop,2015,130,70,69,-5,20,28,215,1,5,75,2Ek3WMM7I-0
+286,Don't,Ed Sheeran,pop,2015,95,61,81,-7,64,85,220,1,7,74,3TqGEbROFd4
+287,Elastic Heart,Sia,australian dance,2015,130,79,42,-5,15,50,257,1,5,73,noHygl5CGEY
+288,Rather Be (feat. Jess Glynne),Clean Bandit,dance pop,2015,121,59,80,-7,19,55,228,16,4,73,l3YjZuRR920
+289,Hello,Adele,british soul,2015,158,45,48,-6,9,29,295,34,3,73,T1tl66trXTQ
+290,Dear Future Husband,Meghan Trainor,dance pop,2015,79,78,66,-5,32,83,184,38,19,72,SWnvSC5Tu9g
+291,43776,BeyoncÃ©,dance pop,2015,136,71,75,-5,13,56,214,1,13,72,WDZJPJV__bQ
+292,The Heart Wants What It Wants,Selena Gomez,dance pop,2015,83,79,62,-5,14,62,227,5,4,72,f8VvfHRozG8
+293,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,dance pop,2015,86,73,60,-4,33,53,193,24,15,72,ZVge91TAePI
+294,Genie In a Bottle,Christina Aguilera,dance pop,2015,176,80,63,-7,14,91,218,21,16,72,k6H5v9iMQhQ
+295,Company,Justin Bieber,canadian pop,2015,95,80,59,-5,8,43,208,13,6,72,gdx7gN1UyX0
+296,Sing,Ed Sheeran,pop,2015,120,67,82,-4,6,94,235,30,5,71,scHS8YaYoRA
+297,Jealous - Remix,Nick Jonas,dance pop,2015,93,71,68,-4,44,45,222,1,8,70,yw04QD1LaB0
+298,Really Don't Care,Demi Lovato,dance pop,2015,121,73,71,-4,19,85,202,12,9,70,DGfcVrU5XSY
+299,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,dance pop,2015,110,61,83,-4,29,71,293,9,7,70,louZabOZTJU
+300,Only Love Can Hurt Like This,Paloma Faith,british soul,2015,91,89,57,-5,33,31,233,10,8,69,d2GOjxA8HQ4
+301,Heartbeat Song,Kelly Clarkson,dance pop,2015,149,80,49,-4,6,48,199,1,5,69,Z2K6uxIFO6w
+302,Up,Olly Murs,dance pop,2015,115,85,69,-5,10,64,224,2,3,69,a4Uv7mSpZc4
+303,Trumpets,Jason Derulo,dance pop,2015,82,70,63,-5,10,64,217,56,24,69,elcIuQPlTRg
+304,Runnin' (Lose It All),Naughty Boy,tropical house,2015,139,85,32,-6,48,8,213,1,8,69,HX36JR4blns
+305,Same Old Love,Selena Gomez,dance pop,2015,98,59,67,-4,21,44,229,2,3,69,naKhF6G36rM
+306,I Want You To Know,Zedd,complextro,2015,130,85,58,-3,14,37,240,1,6,68,67qworViFpY
+307,Lips Are Movin,Meghan Trainor,dance pop,2015,139,83,78,-5,11,95,183,5,5,68,XNR_Az50l3E
+308,I'll Show You,Justin Bieber,canadian pop,2015,192,61,36,-7,18,8,200,5,10,68,evUfGoVqsOQ
+309,Here,Alessia Cara,canadian contemporary r&b,2015,120,82,38,-4,8,33,199,8,10,68,YZRPRf84HO4
+310,I Lived,OneRepublic,dance pop,2015,120,85,59,-5,27,34,235,7,4,67,pKt3o7WPYdo
+311,Fireball (feat. John Ryan),Pitbull,dance pop,2015,123,94,69,-5,5,79,235,9,6,67,WJT5SGS6qkY
+312,Easy Love,Sigala,dance pop,2015,124,94,68,-4,12,65,230,18,6,67,WysanSNOjMc
+313,The Feeling,Justin Bieber,canadian pop,2015,127,81,53,-6,10,21,245,8,6,67,KvT4gs8wZxg
+314,I Really Like You,Carly Rae Jepsen,canadian pop,2015,122,81,62,-5,22,60,205,1,4,66,77PzXCKDyVQ
+315,BO$$,Fifth Harmony,dance pop,2015,103,87,81,-5,5,74,171,1,11,66,eza3V-zioEU
+316,Focus,Ariana Grande,dance pop,2015,100,88,67,-6,44,79,211,27,24,66,hK2YUB0OgyU
+317,All About That Bass,Meghan Trainor,dance pop,2015,134,88,81,-4,11,96,189,5,5,65,M6w_4k62uHc
+318,On My Mind,Ellie Goulding,dance pop,2015,155,71,70,-7,9,74,213,26,5,65,jwV6qVg5VJg
+319,Love Me Like You,Little Mix,dance pop,2015,106,67,79,-4,28,85,198,21,4,65,RhNwr4GbOTg
+320,Broken Arrows,Avicii,big room,2015,116,67,63,-7,10,29,233,5,5,65,ip4Q1pbrYDg
+321,Booty,Jennifer Lopez,dance pop,2015,129,95,71,-4,26,40,210,0,5,64,uwd7xU6ZNHY
+322,What Do You Mean? - Acoustic,Justin Bieber,canadian pop,2015,125,36,77,-11,10,76,204,79,4,64,3IzxTBMmjXc
+323,Mark My Words,Justin Bieber,canadian pop,2015,114,26,38,-9,17,52,134,88,3,63,WkKoC2mWtCE
+324,Lay It All on Me,Rudimental,dance pop,2015,123,75,67,-7,19,48,242,14,4,62,yeWbMjr0rRk
+325,American Oxygen,Rihanna,barbadian pop,2015,78,75,39,-6,33,48,320,5,9,61,Ao8cGLIMtvg
+326,Bang Bang,Jessie J,australian pop,2015,150,75,71,-4,38,73,199,27,9,61,YswhUHH6Ufc
+327,Reality - Radio Edit,Lost Frequencies,belgian edm,2015,122,70,71,-8,7,60,159,2,3,61,O8FYdln-F8w
+328,Alive,Sia,australian dance,2015,100,76,51,-4,11,44,264,25,5,61,-xJrcWtM6jQ
+329,Sugar (feat. Francesco Yates),Robin Schulz,dance pop,2015,123,82,64,-5,16,64,219,2,6,60,jPW5A_JyXCY
+330,Been You,Justin Bieber,canadian pop,2015,113,78,74,-6,32,86,199,2,7,60,v1a2A_77hUQ
+331,Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,french indie pop,2015,123,89,76,-5,62,78,189,2,3,58,J1oKxRCghr4
+332,See You Again (feat. Charlie Puth),Wiz Khalifa,hip hop,2015,80,48,69,-8,6,28,230,37,8,56,NDEWXnMRq3c
+333,Heroes (we could be),Alesso,big room,2015,126,75,52,-4,24,35,210,4,6,56,1ZCxXjDlaf8
+334,"Feel The Light - From The ""Home"" Soundtrack",Jennifer Lopez,dance pop,2015,156,60,47,-6,9,4,292,33,5,55,HhEFEbmsgfU
+335,Perfect,One Direction,boy band,2015,100,82,65,-5,12,40,230,6,8,55,Ho32Oh6b4jc
+336,Ghosttown,Madonna,dance pop,2015,79,55,54,-7,12,9,250,4,4,54,pEcp2HlFBwE
+337,Bang My Head (feat. Sia & Fetty Wap),David Guetta,dance pop,2015,108,87,60,-4,10,59,193,5,8,54,bgcBYaSb4fw
+338,Bloodstream,Ed Sheeran,pop,2015,89,59,48,-6,6,27,309,20,5,52,Vv-n0pgQ8zg
+339,Living For Love,Madonna,dance pop,2015,123,79,67,-5,25,39,219,4,9,52,zbeTpLVlyZQ
+340,Baby Don't Lie,Gwen Stefani,dance pop,2015,100,55,69,-5,10,26,203,1,3,52,9uo9oy-Eqo4
+341,Don't Be so Hard on Yourself,Jess Glynne,dance pop,2015,120,82,57,-3,16,66,211,6,3,52,tMk7NC3Gjo8
+342,Steal My Girl,One Direction,boy band,2015,77,76,47,-6,14,52,227,0,4,51,sahsquWlw5I
+343,"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")",Pitbull,dance pop,2015,127,85,68,-3,6,93,193,1,6,50,QqLs0CBNoSA
+344,We Are Here,Alicia Keys,hip pop,2015,93,67,64,-6,8,8,285,43,4,49,ktpUOHUwrUA
+345,St Jude,Florence + The Machine,art pop,2015,117,43,26,-11,11,9,225,75,3,47,VqkzJ17qh00
+346,Yesterday (feat. Bebe Rexha),David Guetta,dance pop,2015,128,78,57,-4,33,28,243,2,3,46,vRMwZOzL8ho
+347,Time of Our Lives,Pitbull,dance pop,2015,124,80,72,-6,69,72,229,9,6,45,FUak2C_KEeU
+348,Sparks,Hilary Duff,dance pop,2015,122,88,85,-5,10,79,186,4,6,44,HEpJJXNuuvM
+349,Mr. Put It Down,Ricky Martin,dance pop,2015,128,78,80,-6,4,83,196,1,18,42,tTcQTWHIsAU
+350,Legendary Lovers,Katy Perry,dance pop,2015,126,84,62,-5,8,39,224,2,8,41,2t2WLGW2Kvs
+351,Spark The Fire,Gwen Stefani,dance pop,2015,120,80,88,-4,20,54,202,8,6,39,I86MzzVTZ9E
+352,Run Run Run,Kelly Clarkson,dance pop,2015,112,37,28,-7,11,8,273,45,4,36,prmHLN1OgtI
+353,Let Me Be Your Lover,Enrique Iglesias,dance pop,2015,112,90,72,-4,6,88,238,1,13,34,gPfp47jEEiI
+354,Dangerous,Jennifer Hudson,dance pop,2015,109,53,90,-5,8,65,255,0,5,18,CIJbRqXxm2s
+355,L.A.LOVE (la la),Fergie,dance pop,2015,202,39,48,-8,26,27,193,2,9,0,fQTqPRojc8Y
