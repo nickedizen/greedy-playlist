@@ -36,7 +36,7 @@ class _SplashScreenState extends State<SplashScreen> {
       Navigator.pushReplacement(
         context,
         PageRouteBuilder(
-          transitionDuration: Duration(seconds: 1),
+          transitionDuration: Duration(milliseconds: 800),
           pageBuilder: (context, animation, secondaryAnimation) => HomePage(songs: songs),
           transitionsBuilder: (context, animation, secondaryAnimation, child) {
             return FadeTransition(
